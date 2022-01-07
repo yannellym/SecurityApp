@@ -1,3 +1,3 @@
 # SecurityApp
 
-Learning about Security and Encrption. Stay tuned!
+Learning about Security and Encryption. Stay tuned!
